@@ -22,7 +22,7 @@ This application uses OpenCV to find the location of the user's face, then isola
 ### fft(fourier transform)
 ![fft](https://user-images.githubusercontent.com/66733698/116918481-953abf00-ac6d-11eb-8e4d-a17f66719cc3.png)
 
-###  bandpass_for_fft
+###  bandpass for fft
 ![bandpass_for_fft](https://user-images.githubusercontent.com/66733698/116918751-ecd92a80-ac6d-11eb-8d9f-89bad38ce0f0.png)
 
 ### ifft(Inverse fourier transform)
