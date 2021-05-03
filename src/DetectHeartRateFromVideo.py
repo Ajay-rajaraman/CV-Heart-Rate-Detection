@@ -96,7 +96,7 @@ def signal_processing(green_array):
     
     
 # Initialization of variables
-cap = cv2.VideoCapture("../InputVideos/ajay.mp4")
+cap = cv2.VideoCapture("../InputVideos/ajay3.mp4")
 fps=cap.get(cv2.CAP_PROP_FPS)
 face_cascade=cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 count=0  
