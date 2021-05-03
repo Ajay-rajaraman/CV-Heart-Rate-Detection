@@ -10,8 +10,8 @@ This application uses OpenCV to find the location of the user's face, then isola
 
 
 
-## Video link(2nd video under different light condition)
-
+## Video link
+2nd video under different light condition:
 [Video link](https://photos.app.goo.gl/XB62J21rb6fjkNRg9)
 
 
