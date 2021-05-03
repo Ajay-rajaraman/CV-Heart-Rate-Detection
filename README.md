@@ -35,7 +35,7 @@ This application uses OpenCV to find the location of the user's face, then isola
 [Video link](https://photos.app.goo.gl/XB62J21rb6fjkNRg9)
 
 
-
-
+## Walkthrough Video link  
+[video link](https://drive.google.com/file/d/1IaO12FuTq8LXjnS4QPOLCLarRw5Ha34k/view?usp=sharing)
 
 
